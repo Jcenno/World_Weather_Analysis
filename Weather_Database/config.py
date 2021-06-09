@@ -1,2 +1,2 @@
-G_key="3a8d6ae6227f64808f2cb46fd684d01d"
+g_key="3a8d6ae6227f64808f2cb46fd684d01d"
 
